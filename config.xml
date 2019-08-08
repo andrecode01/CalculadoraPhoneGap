@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns="https://www.w3.org/ns/widgets"
+		xmlns:gap="http://phonegap.com/ns/1.0"
+		id="br.com.andrecode01.cardapioifes"
+		version="1.0">
+
+		<name>Calculadora</name>
+
+		<description>Calculadora feita com HTML, CSS e JavaScript por André C, para a aula de Programação para Internet 2 do curso de Análise e Desenvolvimento de Sistemas.
+		</description>
+
+		<author href="http://twitter.com/andrecorradi00"
+				email="andrecorradi00@gmail.com">
+			AndrÃ© Corradi Menario
+		</author>
+
+		<icon src="imagens/icon.ico"/>
+
+		<preference name="orientation" value="portrait"/>
+		<preference name="fullscreen" value="true"/>
+
+		<gap:platform name="android"/>
+
+</widget>
