@@ -17,7 +17,7 @@
 			André Corradi Menario
 		</author>
 
-		<icon src="imagens/icon.ico"/>
+		<icon src="icon.ico"/>
 
 		<preference name="orientation" value="portrait"/>
 		<preference name="fullscreen" value="true"/>
