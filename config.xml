@@ -7,11 +7,13 @@
 
 		<name>Calculadora</name>
 
-		<description>Calculadora feita com HTML, CSS e JavaScript por AndrÈ C, para a aula de ProgramaÁ„o para Internet 2 do curso de An·lise e Desenvolvimento de Sistemas.
+		<description>
+			Calculadora feita com HTML, CSS e JavaScript por Andr√© C, para a aula de Programa√ß√£o para Internet 2 do curso de An√°lise e Desenvolvimento de Sistemas.
 		</description>
 
-		<author href="http://twitter.com/andrecorradi00"
-				email="andrecorradi00@gmail.com">
+		<author 
+			href="http://twitter.com/andrecorradi00"
+			email="andrecorradi00@gmail.com">
 			Andr√© Corradi Menario
 		</author>
 
